@@ -6,7 +6,7 @@
 
 - **David R. Hunter** is a professor of statistics and head of the Department of Statistics at Penn State University, where he has been a member of the faculty since 1999.  He earned his Ph.D. in statistics from the University of Michigan in 1999, following a math degree from Princeton University in 1992 and two years teaching mathematics at a public high school in New Hampshire. He has published widely on statistical models for networks and is a co-creator of the “statnet” suite of packages for network analysis in R. He served as the chair of the American Statistical Association’s Caucus of Academic Representatives in 2015–16 and as program chair of the Section on Statistical Graphics in 2007–8.  He is a fellow of the American Statistical Association.
 
-- **Deb Nolan**
+- **Deborah Nolan** is professor and department chair of statistics at the University of California Berkeley where she also holds the Zaffaroni Family Chair in Undergraduate Education.  Deb has been recognized for excellence in teaching, including being selected this year for ASA's Waller Distinguished Teaching Career Award.  She is co-author of several books, including *Stat Labs: Mathematical Statistics  through Applications*, with Terry Speed; *Teaching Statistics: A Bag of Tricks*, with Andrew Gelman, and *Data science in R: A Case Studies Approach to Computational Reasoning and Problem Solving*, with Duncan Temple Lang. 
 
 - **Joe Blitzstein**
 
