@@ -1,6 +1,6 @@
 ## Speaker bios
 
-- **Albert Y. Kim** is an Assistant Professor of Statistical and Data Sciences at Smith College in Northampton, MA. Prior to joining Smith College, he was a Decision Support Engineering Analyst in the AdWords division of Google Inc and has previously taught at Reed, Middlebury, and Amherst Colleges.
+- **Albert Y. Kim** is an Assistant Professor of Statistical and Data Sciences at Smith College in Northampton, MA. Albert completed his Ph.D. in Statistics at the University of Washington. He is a co-author of the fivethirtyeight R package as well as ModernDive.com, an online textbook for introductory statistics and data science using R. Previously he worked in the Search Ads Metrics Team at Google Inc. as well as at Reed, Middlebury, and Amherst Colleges.
 
 - **Randi Garcia** is an Assistant Professor of Psychology and Statistical and Data Science at Smith College. She is interested in how status and power within people’s daily interactions work to reproduce larger social inequalities. Using quantitative methods, her research explores interpersonal interactions and relationships among people with different social group identities in various contexts. Garcia’s undergraduate education at UCLA was in psychology and women’s studies, with a specialization in computing. While earning her doctorate in social psychology at the University of Connecticut, she completed a master’s degree in statistics, and is an Accredited Professional Statistician.
 
