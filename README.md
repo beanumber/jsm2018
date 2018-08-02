@@ -31,3 +31,5 @@ Organizer & Chair: Ben Baumer, Smith College
 -   11:50 AM Discussant:
     -   Mine Cetinkaya-Rundel, Duke University
 -   12:05 PM Floor Discussion
+
+Description: In “[50 Years of Data Science](https://www.tandfonline.com/doi/abs/10.1080/10618600.2017.1384734)”, David Donoho relates that “John Chambers and Bill Cleveland each envisioned a would-be field that is considerably larger than the consensus Data Science Master’s...but at the same time more intellectually productive and lasting. The larger vision posits a professional on a quest to extract information from data.” As more schools add undergraduate majors in data science, we explore what these programs entail, how they differ from existing majors in statistics (and computer science), and whether they fulfill Donoho’s vision for “Greater Data Science.”
