@@ -15,7 +15,6 @@ Sponsors:
 -   Section on Statistical Education
 -   Section on Statistical Learning and Data Science
 -   Section on Statistical Computing
--   SSC
 
 Organizer & Chair: Ben Baumer, Smith College
 
